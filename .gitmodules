@@ -1,0 +1,9 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/somen-0110-h2s/auth-service.git
+[submodule "shared-libs"]
+	path = shared-libs
+	url = https://github.com/somen-0110-h2s/shared-libs.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/somen-0110-h2s/user-service.git
