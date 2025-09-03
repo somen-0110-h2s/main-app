@@ -1,0 +1,4 @@
+{
+  "mongoURI": "sample_mongo_db_uri",
+  "jwtSecret": "sample_jwt_secret"
+}
